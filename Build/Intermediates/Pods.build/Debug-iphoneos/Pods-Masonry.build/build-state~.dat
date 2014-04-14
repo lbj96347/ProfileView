@@ -1,0 +1,433 @@
+TPods-Masonry
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053226AE3000000000000036B
+t1394764515
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053226AE3000000000000019E
+t1394764515
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053226AE50000000000A90C10
+t1394764517
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053226AE90000000002759920
+t1394764521
+s41261344
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053226B060000000000000ADC
+t1394764550
+s2780
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o
+t1397450737
+s55960
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o
+t1397450737
+s30312
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o
+t1397450737
+s65964
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o
+t1397450737
+s8456
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o
+t1397450737
+s44672
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o
+t1397450737
+s103928
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o
+t1397450737
+s43640
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o
+t1397450737
+s31276
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o
+t1397450737
+s3780
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry.LinkFileList
+c00000000534B67F10000000000000678
+t1397450737
+s1656
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o
+t1397450737
+s49788
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch
+t1397450737
+s96376
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch
+t1397450737
+s94896
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m
+c0000000053495BF700000000000014B4
+t1397316599
+s5300
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m
+c0000000053495BF700000000000008D1
+t1397316599
+s2257
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m
+c0000000053495BF700000000000011C7
+t1397316599
+s4551
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m
+c0000000053495BF700000000000000E3
+t1397316599
+s227
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m
+c0000000053495BF700000000000003CB
+t1397316599
+s971
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m
+c0000000053495BF70000000000002F64
+t1397316599
+s12132
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m
+c0000000053495BF700000000000003BD
+t1397316599
+s957
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m
+c0000000053495BF700000000000012D4
+t1397316599
+s4820
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m
+c0000000053495BF70000000000000CEA
+t1397316599
+s3306
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m
+c0000000053495BF80000000000000080
+t1397316600
+s128
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch
+c0000000053495BF8000000000000004D
+t1397316600
+s77
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies57cd2b719ffbb841^b35e38719ffbb841^---0#1#1#--18"Check dependencies36"88D6480F-970C-49F2-9E92-9FD808BA7B12-
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.359705
+e419143537.478501
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m287"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o Masonry/Masonry/MASCompositeConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbb2a5c719ffbb841^1b7f7a719ffbb841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m0000000000000000^4211"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o Masonry/Masonry/MASCompositeConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASCompositeConstraint.o36"43FA0E33-B460-4D98-B979-04F0FF482DBA-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.360091
+e419143537.443195
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m269"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o Masonry/Masonry/MASConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler3d435c719ffbb841^1bba71719ffbb841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m0000000000000000^4157"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o Masonry/Masonry/MASConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraint.o36"0D367855-D6B6-4D34-8C39-2E83FB8CCEB4-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.360330
+e419143537.476376
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m279"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o Masonry/Masonry/MASConstraintMaker.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler49675c719ffbb841^b6f779719ffbb841^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m0000000000000000^4187"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o Masonry/Masonry/MASConstraintMaker.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASConstraintMaker.o36"4182DB50-EE88-4CB8-891E-516BB5C9DA87-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.360808
+e419143537.416563
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection106"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m281"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o Masonry/Masonry/MASLayoutConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler488a5c719ffbb841^35b76a719ffbb841^---0#0#1#-19%DVTDocumentLocation2@105"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m0000000000000000^4193"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o Masonry/Masonry/MASLayoutConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASLayoutConstraint.o36"1C4A8CC0-399E-463D-AEB1-A2E7EB655131-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.361253
+e419143537.444538
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m275"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o Masonry/Masonry/MASViewAttribute.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerb3b75c719ffbb841^c7d871719ffbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m0000000000000000^4175"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o Masonry/Masonry/MASViewAttribute.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewAttribute.o36"57D61D6A-0A5E-414F-886B-8910BDBF6323-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.361958
+e419143537.514535
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASCompositeConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m277"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o Masonry/Masonry/MASViewConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerd4d25c719ffbb841^80b883719ffbb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m0000000000000000^4181"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o Masonry/Masonry/MASViewConstraint.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewConstraint.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/MASViewConstraint.o36"C2EE56D1-1879-4A74-849A-029FEC138C5E-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.418131
+e419143537.496803
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m283"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o Masonry/Masonry/NSArray+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1a6f6b719ffbb841^882f7f719ffbb841^---0#0#1#-19%DVTDocumentLocation2@106"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m0000000000000000^4199"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o Masonry/Masonry/NSArray+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSArray+MASAdditions.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSArray+MASAdditions.o36"60A7A8B7-E710-4AD6-90F0-5C50BF8CA141-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.426162
+e419143537.507910
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASLayoutConstraint.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m315"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler2a376d719ffbb841^c80682719ffbb841^---0#0#1#-19%DVTDocumentLocation2@122"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m0000000000000000^4295"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/NSLayoutConstraint+MASDebugAdditions.o36"AA1DDBAE-6002-440A-895B-455CCDD89D99-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.444781
+e419143537.483846
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m263"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o Pods-Masonry-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compileradf971719ffbb841^cadd7b719ffbb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m0000000000000000^4144"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o Pods-Masonry-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-dummy.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry-dummy.o36"0D9A50AB-D8B5-44A6-B449-9B6E9E10328E-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.476825
+e419143537.545181
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASUtilities.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraintMaker.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASConstraint.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/MASViewAttribute.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m277"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o Masonry/Masonry/View+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerbe2f7a719ffbb841^ab938b719ffbb841^---0#0#1#-19%DVTDocumentLocation2@103"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m0000000000000000^4181"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o Masonry/Masonry/View+MASAdditions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Masonry/Masonry/View+MASAdditions.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/View+MASAdditions.o36"45441277-73A6-4FC5-83FA-B80B67D67CAB-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CLibtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a normal armv7s
+s419143537.546110
+e419143537.557413
+r1
+xLibtool
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Libtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a normal armv7s125"Libtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a normal armv7sb6da8b719ffbb841^57b38e719ffbb841^---0#0#1#--1076"Libtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a normal armv7s    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -filelist /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Objects-normal/armv7s/Pods-Masonry.LinkFileList -framework Foundation -framework UIKit -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-Masonry.a36"05861AE3-4935-4B10-BA68-7F3CAAA0A6D8-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.220983
+e419143537.254715
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch
+xPods-Masonry-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile Pods-Masonry-prefix.pch276"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler53ae38719ffbb841^983541719ffbb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch0000000000000000^4021"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-cjvuaquayivvthatgdqbgkalprkh/Pods-Masonry-prefix.pch.pch36"CA566D7A-CC72-4874-BB0A-41A9191E0012-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.221380
+e419143537.359186
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch
+xPods-Masonry-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection34"Precompile Pods-Masonry-prefix.pch276"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilera4c638719ffbb841^b7f15b719ffbb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch0000000000000000^4010"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/Pods-Masonry-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-Masonry.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-Masonry-prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-Masonry-prefix-helwrtidkpkznqbfmylqgwziuimj/Pods-Masonry-prefix.pch.pch36"A1A17EB9-E177-4DE1-87BF-86A787FEECE4-
+b4C96DF60-F788-466B-BB51-6885D3238B55
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/Pods-Masonry-prefix-bscounizbcnjrafeyqduqplpbgii_ast/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/Pods-Masonry-prefix-edqwiteeweufhuctenqenwtcvkrq_ast/Pods-Masonry-prefix.pch.pch Pods-Masonry-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

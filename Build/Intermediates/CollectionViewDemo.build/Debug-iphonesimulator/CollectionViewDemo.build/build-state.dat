@@ -1,0 +1,1212 @@
+TCollectionViewDemo
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh
+cDataModelVersionCompile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo.xcdatamodeld
+cProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo normal i386
+cCpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+cCpResource CollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+cCpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+cCpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+cCpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+cCpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+cCopyStringsFile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj/InfoPlist.strings CollectionViewDemo/en.lproj/InfoPlist.strings
+cCompileAssetCatalog /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/Images.xcassets
+cProcessInfoPlistFile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist
+cGenerateDSYMFile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh
+cTouch /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053226AEF00000000000003B4
+t1394764527
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053226AF4000000000000019E
+t1394764532
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053226AF5000000000058E0E0
+t1394764533
+s5824736
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000053226AF500000000006CED60
+t1394764533
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c0000000053226AF500000000005B82F0
+t1394764533
+s5997296
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053226AF50000000000446820
+t1394764533
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c0000000053226AF500000000003599D0
+t1394764533
+s3512784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c0000000053226AF600000000002FC3B0
+t1394764534
+s3130288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000053226AF5000000000004B000
+t1394764533
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053226AF6000000000088D8C0
+t1394764534
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053226AF70000000000037680
+t1394764535
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053226AF7000000000048F720
+t1394764535
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053226AF7000000000013FD70
+t1394764535
+s1310064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053226AF90000000001F1DE10
+t1394764537
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c0000000053226AFF00000000002BC360
+t1394764543
+s2868064
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+c0000000053226B030000000000002338
+t1394764547
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+c0000000053226B03000000000008D370
+t1394764547
+s578416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib
+c0000000053226B0300000000004F47E0
+t1394764547
+s5195744
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+c0000000053226B030000000000392E20
+t1394764547
+s3747360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+c00000000531FF63400000000000141F0
+t1394603572
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+c0000000053226B030000000000014A80
+t1394764547
+s84608
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c0000000053226B030000000000033BA0
+t1394764547
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c0000000053226B03000000000001CFB0
+t1394764547
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+c0000000053226B03000000000001B2B0
+t1394764547
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+c0000000053226B0300000000000C9570
+t1394764547
+s824688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+c0000000053226B030000000000063280
+t1394764547
+s406144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+c0000000053226B030000000000008880
+t1394764547
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+c0000000053226B030000000000015080
+t1394764547
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+c0000000053226B0300000000000230F0
+t1394764547
+s143600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+c0000000053226B03000000000000E380
+t1394764547
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+c0000000053226B030000000000089380
+t1394764547
+s562048
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+c0000000053226B030000000000017320
+t1394764547
+s95008
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c0000000053226B030000000000039CD0
+t1394764547
+s236752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c0000000053226B03000000000000B0B0
+t1394764547
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+c0000000053226B030000000000167E80
+t1394764547
+s1474176
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c0000000053226B0300000000000106A0
+t1394764547
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c0000000053226B03000000000001CE40
+t1394764547
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+c0000000053226B0300000000000740C0
+t1394764547
+s475328
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+c0000000053226B03000000000006CA60
+t1394764547
+s445024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+c0000000053226B03000000000001BAD0
+t1394764547
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+c0000000053226B030000000000084A20
+t1394764547
+s543264
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053226B060000000000000ADC
+t1394764550
+s2780
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+c0000000053226B06000000000000514C
+t1394764550
+s20812
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o
+t1397386390
+s80480
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o
+t1397379309
+s53748
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewDemo.LinkFileList
+c00000000534A37F3000000000000076B
+t1397372915
+s1899
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o
+t1397382266
+s55364
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o
+t1397379309
+s81060
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o
+t1397379309
+s242448
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o
+t1397379309
+s58520
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o
+t1397457122
+s113928
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o
+t1397379309
+s107240
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o
+t1397379309
+s45524
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o
+t1397379308
+s3640
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh
+c00000000534763AA0000000000000103
+t1397187498
+s259
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh
+c00000000534763AA000000000000002F
+t1397187498
+s47
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_dependencies.txt
+t1397379309
+s469
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_generated_info.plist
+t1397379309
+s525
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.pch
+t1397316733
+s124500
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch
+t1397379308
+s118300
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.pch
+t1397104379
+s123576
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.pch
+t1397187498
+s124268
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app
+t1397457772
+s408
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM
+t1397457122
+s102
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo
+t1397457122
+s1365036
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd
+t1397379308
+s170
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist
+t1397379309
+s1015
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/PkgInfo
+t1397379310
+s8
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj/InfoPlist.strings
+t1397104379
+s42
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+t1397457772
+s2957
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+t1397457772
+s3026
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+t1397457772
+s3224
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/libPods-Masonry.a
+c0000000053495C7C000000000006BB48
+t1397316732
+s441160
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/libPods-PonyDebugger.a
+c0000000053495C7C00000000001EB570
+t1397316732
+s2012528
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/libPods-SocketRocket.a
+c0000000053495C7C0000000000032868
+t1397316732
+s206952
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.h
+c0000000053461D1F000000000000026C
+t1397103903
+s620
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m
+c00000000534763A80000000000001DD1
+t1397187496
+s7633
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.h
+c00000000534A44EB00000000000002F5
+t1397376235
+s757
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m
+c00000000534A46670000000000000DB7
+t1397376615
+s3511
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist
+c0000000053461D1F0000000000000490
+t1397103903
+s1168
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch
+c0000000053461D1F000000000000017A
+t1397103903
+s378
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo.xcdatamodeld
+c0000000053461D1F0000000000000088
+t1397103903
+s136
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/Images.xcassets
+c0000000053461D1F0000000000000088
+t1397103903
+s136
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.h
+c00000000534A475C00000000000002B5
+t1397376860
+s693
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m
+c00000000534A5C7900000000000010EA
+t1397382265
+s4330
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.h
+c00000000534A6C0E00000000000001A7
+t1397386254
+s423
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m
+c00000000534B6C8500000000000035E2
+t1397451909
+s13794
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.h
+c00000000533FAA5B0000000000000DAE
+t1396681307
+s3502
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m
+c00000000533FAA5B0000000000002604
+t1396681307
+s9732
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.h
+c00000000533FAA5B0000000000005C98
+t1396681307
+s23704
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m
+c00000000533FAA5B000000000000DB09
+t1396681307
+s56073
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.h
+c00000000533FAA5B0000000000000C43
+t1396681307
+s3139
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m
+c00000000533FAA5B0000000000001D08
+t1396681307
+s7432
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.h
+c00000000533FAA5B000000000000097C
+t1396681307
+s2428
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m
+c00000000533FAA5B00000000000009D4
+t1396681307
+s2516
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.h
+c00000000533FAA5B0000000000001068
+t1396681307
+s4200
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m
+c00000000533FAA5B000000000000360B
+t1396681307
+s13835
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png
+c00000000533FAA5B0000000000000B8D
+t1396681307
+s2957
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png
+c00000000533FAA5B0000000000000BD2
+t1396681307
+s3026
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png
+c00000000533FAA5B0000000000000C98
+t1396681307
+s3224
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png
+c00000000533FAA5B0000000000000B8D
+t1396681307
+s2957
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png
+c00000000533FAA5B0000000000000BD2
+t1396681307
+s3026
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png
+c00000000533FAA5B0000000000000C98
+t1396681307
+s3224
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/en.lproj/InfoPlist.strings
+c0000000053461D1F000000000000002D
+t1397103903
+s45
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m
+c0000000053461D1F000000000000015D
+t1397103903
+s349
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos/libPods-Masonry.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos/libPods-PonyDebugger.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos/libPods-SocketRocket.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/usr/lib/libSystem.B.dylib
+c000000005267BE26000000000000E6D0
+t1382530598
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005267BE320000000000012A00
+t1382530610
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c000000005267BE1B000000000002E320
+t1382530587
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c000000005267BE260000000000021860
+t1382530598
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005267BE31000000000001B620
+t1382530609
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267BE3100000000000BD920
+t1382530609
+s776480
+
+N/usr/lib/system/libdyld.dylib
+c00000000531FF63400000000000141F0
+t1394603572
+s82416
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005267BE32000000000000A120
+t1382530610
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c00000000531FF634000000000001D550
+t1394603572
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005267BE310000000000014EE0
+t1382530609
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c000000005267BE330000000000010380
+t1382530611
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c000000005267BE33000000000000C4C0
+t1382530611
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267BE3200000000000357A0
+t1382530610
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005267BE32000000000000C070
+t1382530610
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000531FF60B0000000000168D00
+t1394603531
+s1477888
+
+N/usr/lib/system/libsystem_configuration.dylib
+c00000000531FF62F0000000000010630
+t1394603567
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c00000000531FF635000000000001DF10
+t1394603573
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c000000005267BE260000000000075B00
+t1382530598
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c00000000531FF60B000000000007CCE0
+t1394603531
+s511200
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267BE2600000000000766C0
+t1382530598
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c00000000531FF6340000000000044DC0
+t1394603572
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c000000005267BE260000000000021FA0
+t1382530598
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c00000000531FF634000000000002D920
+t1394603572
+s186656
+
+N/usr/lib/system/libsystem_pthread.dylib
+c000000005267BE32000000000001E570
+t1382530610
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c00000000531FF622000000000000CC70
+t1394603554
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005267BE2E000000000000C3F0
+t1382530606
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267BE3200000000000199F0
+t1382530610
+s104944
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7ae4f7ebbafbb841^0fb9fdebbafbb841^-565"Warning: Multiple build commands for output file /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.pngWarning: Multiple build commands for output file /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.pngWarning: Multiple build commands for output file /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png3(21%IDEActivityLogMessage2@191"Warning: Multiple build commands for output file /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png-419150571#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@187"Warning: Multiple build commands for output file /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png-419150571#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--2@184"Warning: Multiple build commands for output file /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png-419150571#18446744073709551615#0#-1#27"com.apple.dt.IDE.LogMessage-27"Dependency Analysis Warning--0#1#1#--18"Check dependencies36"C94D468A-7942-44E3-B85B-B171F35CBC0C-
+
+CCompileAssetCatalog /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/Images.xcassets
+s419072109.321651
+e419072109.974611
+r1
+xCompileAssetCatalog
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/LaunchImage-700-568h@2x.png
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Assets.car
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CollectionViewDemo.app CollectionViewDemo/Images.xcassets114"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CollectionViewDemo.app CollectionViewDemo/Images.xcassets556a526d88fab841^b280f96d88fab841^-497"/* com.apple.actool.compilation-results *//Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/LaunchImage-700-568h@2x.png/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Assets.car/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@98"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/Images.xcassets/0000000000000000^1311"CompileAssetCatalog Build/Products/Debug-iphonesimulator/CollectionViewDemo.app CollectionViewDemo/Images.xcassets    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/Images.xcassets36"2E78B2AC-8B17-4F4C-8D01-062C34DCB28D-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419079190.077745
+e419079190.221233
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m241"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o CollectionViewDemo/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler61fd1316a4fab841^b5a33816a4fab841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m0000000000000000^4806"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o CollectionViewDemo/BIDAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o36"BC5B9D8A-C2B9-4972-9AFE-5D451E7CFB50-
+b7316BA24-5D86-47AB-BDDE-9DCD5B26E639
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072109.016696
+e419072109.126238
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection109"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m261"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o CollectionViewDemo/CollectionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4758046d88fab841^1e52206d88fab841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m0000000000000000^4866"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o CollectionViewDemo/CollectionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o36"517AA5A5-426D-46C5-9A56-69A4BD98FEB0-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419075066.556379
+e419075066.614256
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m249"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o CollectionViewDemo/ListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9d848efa93fab841^bc409dfa93fab841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m0000000000000000^4830"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o CollectionViewDemo/ListViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o36"FE767124-9741-494C-B70D-48915DBE724D-
+bC4155042-88F8-4B52-9661-D4072E244E70
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072108.949019
+e419072109.121012
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection137"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m286"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb70df36c88fab841^dbf91e6d88fab841^---0#0#1#-19%DVTDocumentLocation2@136"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m0000000000000000^4910"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerBarButtonItem.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o36"5D1FBEED-D374-4648-9F95-37B150653559-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072108.950191
+e419072109.239859
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m280"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb263f36c88fab841^cb673d6d88fab841^---0#0#1#-19%DVTDocumentLocation2@133"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m0000000000000000^4892"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o36"F5D64ACE-1658-42D4-8ECE-9A440A4B24AB-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072109.094186
+e419072109.182112
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection135"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m282"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere63b186d88fab841^9d9f2e6d88fab841^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m0000000000000000^4898"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerVisualState.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o36"355DD982-470B-4FEB-90FC-EF0B734F09AB-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419149922.543683
+e419149922.659082
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/ListViewController.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m249"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o CollectionViewDemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler49498b62b8fbb841^88b9a862b8fbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m0000000000000000^4830"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o CollectionViewDemo/MainViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/MainViewController.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o36"9910A635-D0FA-40F9-BCF2-D9BD4B5566B8-
+b894BE600-285D-4643-8C22-9D00D56754E9
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072108.948731
+e419072109.137614
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.h
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m:189:37: warning: 'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context: [-Wdeprecated-declarations]
+o        CGSize textSize = [vc.title sizeWithFont:[UIFont systemFontOfSize:kFontSizeOfTabButton]
+o                                    ^
+oIn module 'UIKit' imported from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.h:9:
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:70:1: note: method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here
+o- (CGSize)sizeWithFont:(UIFont *)font constrainedToSize:(CGSize)size lineBreakMode:(NSLineBreakMode)lineBreakMode NS_DEPRECATED_IOS(2_0, 7_0, "Use -boundingRectWithSize:options:attributes:context:"); // NSTextAlignment is not needed to determine size
+o^
+o1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection127"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m273"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbff4f26c88fab841^583a236d88fab841^-1140"/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m:189:37: warning: 'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context: [-Wdeprecated-declarations]        CGSize textSize = [vc.title sizeWithFont:[UIFont systemFontOfSize:kFontSizeOfTabButton]                                    ^In module 'UIKit' imported from /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.h:9:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h:70:1: note: method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here- (CGSize)sizeWithFont:(UIFont *)font constrainedToSize:(CGSize)size lineBreakMode:(NSLineBreakMode)lineBreakMode NS_DEPRECATED_IOS(2_0, 7_0, "Use -boundingRectWithSize:options:attributes:context:"); // NSTextAlignment is not needed to determine size^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@146"'sizeWithFont:constrainedToSize:lineBreakMode:' is deprecated: first deprecated in iOS 7.0 - Use -boundingRectWithSize:options:attributes:context:-419072109#18446744073709551615#0#1(2@68"Method 'sizeWithFont:constrainedToSize:lineBreakMode:' declared here-419072109#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@190"file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIStringDrawing.h0000000000000000^69#0#69#0#4398#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@126"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m0000000000000000^188#36#188#36#6051#0#12"Deprecations--0#0#1#-19%DVTDocumentLocation4@126"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m0000000000000000^4878"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/SUNSlideSwitchView.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o36"7A649B6E-86CD-46AF-B76A-B6B477C90E35-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072108.949486
+e419072109.093923
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/MMDrawerController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m314"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbf2af36c88fab841^2c0d186d88fab841^---0#0#1#-19%DVTDocumentLocation2@150"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m0000000000000000^4994"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/MMDrawerController/UIViewController+MMDrawerController.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o36"8BE903B4-8ECA-4795-83CB-CEDAB090F588-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072108.949799
+e419072109.016480
+r1
+xCompileC
+xBuild/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/BIDAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m221"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o CollectionViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3e40f36c88fab841^5c3c046d88fab841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m0000000000000000^4746"CompileC Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o CollectionViewDemo/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/main.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o36"44958B6D-9F0C-466A-9DB4-1C63F22089C4-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CCopyStringsFile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj/InfoPlist.strings CollectionViewDemo/en.lproj/InfoPlist.strings
+s418797179.539663
+e418797179.540525
+r1
+xCopyStringsFile
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj/InfoPlist.strings
+xCollectionViewDemo/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Copy CollectionViewDemo/en.lproj/InfoPlist.strings148"CopyStringsFile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj/InfoPlist.strings CollectionViewDemo/en.lproj/InfoPlist.stringsc6318a7b56f6b841^7c618a7b56f6b841^---0#0#1#-19%DVTDocumentLocation2@108"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/en.lproj/InfoPlist.strings0000000000000000^671"CopyStringsFile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj/InfoPlist.strings CollectionViewDemo/en.lproj/InfoPlist.strings    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/en.lproj -- CollectionViewDemo/en.lproj/InfoPlist.strings36"FC598699-7DBC-4ECF-9992-0F552356001C-
+bCDDBF619-9CF2-4A66-811B-CB1FDA255AA5
+
+CCpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+s419149922.824720
+e419149922.837627
+r1
+xCpResource
+xCollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png
+xBuild/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png163"CpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png1b2dd362b8fbb841^2a74d662b8fbb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png0000000000000000^779"CpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow.png /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"21444C9F-C3B5-413C-A607-6C4612ED7AC4-
+b894BE600-285D-4643-8C22-9D00D56754E9
+
+CCpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+s419149922.824505
+e419149922.837624
+r1
+xCpResource
+xCollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png
+xBuild/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png169"CpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.pngf222d362b8fbb841^3771d662b8fbb841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png0000000000000000^788"CpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/resources/icon_rightarrow@2x.png /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"323358BA-F69D-4636-90BD-184C73036E43-
+b894BE600-285D-4643-8C22-9D00D56754E9
+
+CCpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+s419150572.006834
+e419150572.007717
+r1
+xCpResource
+xCollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png
+xBuild/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png177"CpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png21cc01ecbafbb841^66fa01ecbafbb841^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png0000000000000000^800"CpResource CollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/SlideSwitch/resources/red_line_and_shadow@2x.png /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"1F092FE4-F855-4611-B791-97A56785356A-
+bA98DEE6D-5464-4FF2-A58E-784795C77F01
+
+CCpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+s419150572.007344
+e419150572.008155
+r1
+xCpResource
+xCollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png
+xBuild/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Copy Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png151"CpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png41ef01ecbafbb841^f81602ecbafbb841^---0#0#1#-19%DVTDocumentLocation2@142"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png0000000000000000^755"CpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow.png    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/resources/icon_rightarrow.png /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"7676E327-6033-4F47-8171-61DD7B3943B7-
+bA98DEE6D-5464-4FF2-A58E-784795C77F01
+
+CCpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+s419150572.007057
+e419150572.007974
+r1
+xCpResource
+xCollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png
+xBuild/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Copy Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png157"CpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png41d801ecbafbb841^fa0a02ecbafbb841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png0000000000000000^764"CpResource CollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/icon_rightarrow@2x.png    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/resources/icon_rightarrow@2x.png /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"C34E36E7-6813-4D97-86C3-933463A388C0-
+bA98DEE6D-5464-4FF2-A58E-784795C77F01
+
+CCpResource CollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+s419149922.824241
+e419149922.825154
+r1
+xCpResource
+xCollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png
+xBuild/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Copy Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png165"CpResource CollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.pnged0cd362b8fbb841^963fd362b8fbb841^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png0000000000000000^776"CpResource CollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/red_line_and_shadow@2x.png    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/SlideSwitch/resources/red_line_and_shadow@2x.png /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"121F0CA6-583F-46CC-ABC2-7D391D51AB59-
+b894BE600-285D-4643-8C22-9D00D56754E9
+
+CDataModelVersionCompile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo.xcdatamodeld
+s419072108.685156
+e419072108.863031
+r1
+xDataModelVersionCompile
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"DataModelVersionCompile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd CollectionViewDemo/CollectionViewDemo.xcdatamodeld158"DataModelVersionCompile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd CollectionViewDemo/CollectionViewDemo.xcdatamodeld0474af6c88fab841^ee5fdd6c88fab841^---0#0#1#-19%DVTDocumentLocation2@114"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo.xcdatamodeld/0000000000000000^1020"DataModelVersionCompile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd CollectionViewDemo/CollectionViewDemo.xcdatamodeld    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo.xcdatamodeld /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo.momd36"70EF720F-D95F-4202-9B79-680FF04F2F37-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CGenerateDSYMFile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo
+s419149922.838291
+e419149922.941775
+r1
+xGenerateDSYMFile
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection129"Generate /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM160"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemob5a5d662b8fbb841^4819f162b8fbb841^---0#0#1#-19%DVTDocumentLocation2@128"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM/0000000000000000^778"GenerateDSYMFile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app.dSYM36"CA97C0B4-CD5D-46E7-9250-DBBA635A376F-
+b894BE600-285D-4643-8C22-9D00D56754E9
+
+CLd /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo normal i386
+s419149922.662932
+e419149922.823365
+r1
+xLd
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo
+xnormal
+xi386
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewDemo.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/ListViewController.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/BIDAppDelegate.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/SUNSlideSwitchView.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerBarButtonItem.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/UIViewController+MMDrawerController.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/main.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerController.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MainViewController.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewController.o
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/MMDrawerVisualState.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libicucore.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/libPods-Masonry.a
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/libPods-PonyDebugger.a
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/libPods-SocketRocket.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+old: warning: directory not found for option '-L/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos'
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection139"Link /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo93"Ld Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo normal i38672c5a962b8fbb841^82c8d262b8fbb841^-130"ld: warning: directory not found for option '-L/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos'1(21%IDEActivityLogMessage2@116"Directory not found for option '-L/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos'-419149922#0#130#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#27"Apple Mach-O Linker Warning--0#0#1#--1900"Ld Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo normal i386    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -L/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/build/Debug-iphoneos -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -filelist /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewDemo.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -licucore -framework CFNetwork -framework CoreData -framework CoreGraphics -framework Foundation -framework Security -framework UIKit -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lPods-Masonry -lPods-PonyDebugger -lPods-SocketRocket -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Objects-normal/i386/CollectionViewDemo_dependency_info.dat -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/CollectionViewDemo36"3D68F7C1-DA7D-4339-A0E4-DE87EA8D1939-
+b894BE600-285D-4643-8C22-9D00D56754E9
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh
+s419150571.991948
+e419150572.002629
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'174"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh4338feebbafbb841^75ae00ecbafbb841^---0#0#1#--436"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    /bin/sh -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-49FA1E7870FF4E8FACA7D14C.sh36"521F3E56-8EE9-4F34-A78C-CAE91647B748-
+bA98DEE6D-5464-4FF2-A58E-784795C77F01
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh
+s419150572.009212
+e419150572.716040
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o/* com.apple.actool.compilation-results */
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'169"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh48a302ecbafbb841^db4eb7ecbafbb841^-283"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-419150572#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-419150572#29#50#-0#-----2@33"total size is 0  speedup is 0.00-419150572#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-419150572#112#43#-0#-----2@127"/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Assets.car-419150572#155#127#-0#-----0#0#1#--431"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    /bin/sh -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/Script-5C585EBC04584F3E8800257F.sh36"DABC55A0-1A99-4A9B-AD7C-DB4194B7491A-
+bA98DEE6D-5464-4FF2-A58E-784795C77F01
+
+CProcessInfoPlistFile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist
+s419072109.975064
+e419072110.005892
+r1
+xProcessInfoPlistFile
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Process /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist140"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist CollectionViewDemo/CollectionViewDemo-Info.plist65a9f96d88fab841^d384016e88fab841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist0000000000000000^1066"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist CollectionViewDemo/CollectionViewDemo-Info.plist    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Info.plist -genpkginfo /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/assetcatalog_generated_info.plist -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app/Info.plist36"6841EAC8-ECBC-4AAB-8BE6-5D8739E799AD-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419009532.963962
+e419009533.150160
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.pch
+xCollectionViewDemo/CollectionViewDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CollectionViewDemo/CollectionViewDemo-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4dd8f6fc93f9b841^117226fd93f9b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch0000000000000000^4644"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-cuxzdhxblbrjdwaupqjvbzfvhznv/CollectionViewDemo-Prefix.pch.pch36"C8DCFE00-7159-4895-886B-4705CBAC6D15-
+b3457F482-B238-44F0-B2FF-BD8A16FF3EB8
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419072108.685501
+e419072108.947673
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch
+xCollectionViewDemo/CollectionViewDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CollectionViewDemo/CollectionViewDemo-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler618daf6c88fab841^6b9bf26c88fab841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch0000000000000000^4644"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-dpcqddgahobpchhkspvozkfdvbre/CollectionViewDemo-Prefix.pch.pch36"554F89D1-A434-49F4-9AB8-B5A9638DD524-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418797179.119558
+e418797179.283402
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.pch
+xCollectionViewDemo/CollectionViewDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CollectionViewDemo/CollectionViewDemo-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler42b41e7b56f6b841^b08d487b56f6b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch0000000000000000^4059"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-enpzaadmmsbtkecffxdhhhjfxnwe/CollectionViewDemo-Prefix.pch.pch36"077D2D14-2F98-4643-894E-A354BC6284E0-
+bCDDBF619-9CF2-4A66-811B-CB1FDA255AA5
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s418880298.139181
+e418880298.317340
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.pch
+xCollectionViewDemo/CollectionViewDemo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Precompile CollectionViewDemo/CollectionViewDemo-Prefix.pch255"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler57b2232a9bf7b841^1440512a9bf7b841^---0#0#1#-19%DVTDocumentLocation2@111"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch0000000000000000^4479"ProcessPCH Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/CollectionViewDemo-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources/i386 -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/CollectionViewDemo.build/Debug-iphonesimulator/CollectionViewDemo.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -isystem /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/CollectionViewDemo/CollectionViewDemo-Prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/CollectionViewDemo-Prefix-frgzxoovlmxcrggnxaapgzmqimjr/CollectionViewDemo-Prefix.pch.pch36"65E94833-56C0-44D1-BC2B-34205653E440-
+bDD545B7F-D7C2-4F17-8242-23731C37BCBA
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/CollectionViewDemo-Prefix-ewhxehnautihueazmwtpsfstrnvr_ast/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/CollectionViewDemo-Prefix-gituwshhnskoqqagyfuzjhpyzqay_ast/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/CollectionViewDemo-Prefix-hbiuujwzieuecbfpfmrurifbccnf_ast/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-goqqqcrhlqcdwbbvnxmsrepczcga/Index/PrecompiledHeaders/CollectionViewDemo-Prefix-gqlglxizevdspzflxjdpolezesmi_ast/CollectionViewDemo-Prefix.pch.pch CollectionViewDemo/CollectionViewDemo-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app
+s419072110.393495
+e419072110.396683
+r1
+xTouch
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app65"Touch Build/Products/Debug-iphonesimulator/CollectionViewDemo.app2ac7646e88fab841^ce8d656e88fab841^---0#0#1#--462"Touch Build/Products/Debug-iphonesimulator/CollectionViewDemo.app    cd /Users/CashMacbook/Documents/project/CollectionViewDemo    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphonesimulator/CollectionViewDemo.app36"64EC172D-5C65-4699-BA2C-DEDF2D410F51-
+b9E775C79-D728-4FF3-B39E-9BBDD6D50F3C
+

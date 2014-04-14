@@ -1,0 +1,267 @@
+TPods-SocketRocket
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a normal armv7s
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk
+c0000000053119F860000000000000132
+t1393663878
+s306
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/SDKSettings.plist
+c0000000053226AE3000000000000036B
+t1394764515
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053226AE3000000000000019E
+t1394764515
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c0000000053226AE4000000000063A500
+t1394764516
+s6530304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053226AE50000000000A90C10
+t1394764517
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Security.framework/Security
+c0000000053226AE60000000000186D60
+t1394764518
+s1600864
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053226B060000000000000ADC
+t1394764550
+s2780
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o
+t1397450737
+s6980
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o
+t1397450737
+s3820
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket.LinkFileList
+c00000000534B67F10000000000000299
+t1397450737
+s665
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o
+t1397450737
+s194480
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o
+t1397450737
+s5616
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch
+t1397450737
+s95044
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch
+t1397450737
+s97080
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch
+t1397450737
+s90560
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a
+t2
+s0
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m
+c0000000053495BF8000000000000008A
+t1397316600
+s138
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch
+c0000000053495BF8000000000000004D
+t1397316600
+s77
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m
+c0000000053475B9D0000000000000484
+t1397185437
+s1156
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m
+c0000000053475B9D000000000000DB62
+t1397185437
+s56162
+
+N/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c
+c0000000053475B9D0000000000002BFB
+t1397185437
+s11259
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m
+r0
+
+CBuild AST from /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies0bd32b719ffbb841^15e635719ffbb841^---0#1#1#--18"Check dependencies36"E68FC1E1-BFA1-4993-A8EC-5E45A7ED5F9E-
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.361016
+e419143537.425947
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m300"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o SocketRocket/SocketRocket/NSData+SRB64Additions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler1dab5c719ffbb841^3d0c6d719ffbb841^---0#0#1#-19%DVTDocumentLocation2@117"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m0000000000000000^4333"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o SocketRocket/SocketRocket/NSData+SRB64Additions.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/NSData+SRB64Additions.o36"332D1712-175A-49EC-9620-E72CB08B7796-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.361535
+e419143537.422216
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m278"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o Pods-SocketRocket-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerf8c65c719ffbb841^0c206c719ffbb841^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m0000000000000000^4259"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o Pods-SocketRocket-dummy.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-dummy.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket-dummy.o36"9446B47E-9805-4660-BEFE-A1220B63888E-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.423495
+e419143537.647507
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.h
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/NSData+SRB64Additions.h
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m:923:55: warning: implicit conversion loses integer precision: 'uint64_t' (aka 'unsigned long long') to 'size_t' (aka 'unsigned long') [-Wshorten-64-to-32]
+o        [self _addConsumerWithDataLength:frame_header.payload_length callback:^(SRWebSocket *self, NSData *newData) {
+o        ~                                ~~~~~~~~~~~~~^~~~~~~~~~~~~~
+o/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m:1606:32: warning: unused function 'log_queue' [-Wunused-function]
+ostatic inline dispatch_queue_t log_queue() {
+o                               ^
+o2 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m280"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o SocketRocket/SocketRocket/SRWebSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler618c6c719ffbb841^d2c2a5719ffbb841^-710"/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m:923:55: warning: implicit conversion loses integer precision: 'uint64_t' (aka 'unsigned long long') to 'size_t' (aka 'unsigned long') [-Wshorten-64-to-32]        [self _addConsumerWithDataLength:frame_header.payload_length callback:^(SRWebSocket *self, NSData *newData) {        ~                                ~~~~~~~~~~~~~^~~~~~~~~~~~~~/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m:1606:32: warning: unused function 'log_queue' [-Wunused-function]static inline dispatch_queue_t log_queue() {                               ^2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@116"Implicit conversion loses integer precision: 'uint64_t' (aka 'unsigned long long') to 'size_t' (aka 'unsigned long')-419143537#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@107"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m0000000000000000^922#54#922#54#27427#0#22"Value Conversion Issue2(3@107"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m0000000000000000^922#41#922#68#27414#13#3@107"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m0000000000000000^922#8#922#9#27381#0#-2@27"Unused function 'log_queue'-419143537#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@107"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m0000000000000000^1605#31#1605#31#52294#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@107"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m0000000000000000^4273"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o SocketRocket/SocketRocket/SRWebSocket.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/SRWebSocket.m -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/SRWebSocket.o36"BDF95609-3FA1-4B48-A734-8305B1DE0FE8-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CCompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.443434
+e419143537.510690
+r1
+xCompileC
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c260"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o SocketRocket/SocketRocket/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler912a72719ffbb841^44bf82719ffbb841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c0000000000000000^4033"CompileC /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o SocketRocket/SocketRocket/base64.c normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.d --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.dia -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/SocketRocket/SocketRocket/base64.c -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/base64.o36"75868E44-DB57-4CD9-99D1-824407AB7C8F-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CLibtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a normal armv7s
+s419143537.648172
+e419143537.653267
+r1
+xLibtool
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a
+xnormal
+xarmv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Libtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a normal armv7s130"Libtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a normal armv7s94fba5719ffbb841^3a3da7719ffbb841^---0#0#1#--1120"Libtool /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a normal armv7s    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only armv7s -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -L/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -filelist /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Objects-normal/armv7s/Pods-SocketRocket.LinkFileList -framework CFNetwork -framework Foundation -framework Security -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/libPods-SocketRocket.a36"2DD2ACE2-6A50-477C-910E-8905C48DCD1C-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.211211
+e419143537.358941
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch
+xPods-SocketRocket-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-SocketRocket-prefix.pch291"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler462836719ffbb841^69e45b719ffbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch0000000000000000^4115"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-edztbnodffqvkwgfecacetlfjwvr/Pods-SocketRocket-prefix.pch.pch36"5EAFCCEE-82B3-41EA-9CB7-A70DDB0199F5-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.210976
+e419143537.360159
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch
+xPods-SocketRocket-prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-SocketRocket-prefix.pch291"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilerab2036719ffbb841^c6335c719ffbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch0000000000000000^4149"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-flkcejuxwuuioxcvbkredyxtvoxn/Pods-SocketRocket-prefix.pch.pch36"90611934-81CA-41B4-A43A-C9556F7563DD-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler
+s419143537.211519
+e419143537.231656
+r1
+xProcessPCH
+x/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch
+xPods-SocketRocket-prefix.pch
+xnormal
+xarmv7s
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch
+d/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile Pods-SocketRocket-prefix.pch281"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s c com.apple.compilers.llvm.clang.1_0.compilerfa4436719ffbb841^664e3b719ffbb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch0000000000000000^3939"ProcessPCH /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c-header -arch armv7s -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/CashMacbook/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk -fstrict-aliasing -Wdeprecated-declarations -g -Wno-sign-conversion -miphoneos-version-min=7.0 -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-generated-files.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-own-target-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-all-target-headers.hmap -iquote /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/Pods-SocketRocket-project-headers.hmap -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos/include -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/BuildHeaders/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/Masonry -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/PonyDebugger -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Headers/SocketRocket -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources/armv7s -I/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-SocketRocket.build/DerivedSources -F/Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Products/Debug-iphoneos -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.dia -MMD -MT dependencies -MF /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.d -c /Users/CashMacbook/Documents/project/CollectionViewDemo/Pods/Pods-SocketRocket-prefix.pch -o /Users/CashMacbook/Documents/project/CollectionViewDemo/Build/Intermediates/PrecompiledHeaders/Pods-SocketRocket-prefix-gqdftueihjukxraqiuwwhntbvfbn/Pods-SocketRocket-prefix.pch.pch36"0E1AE31E-EE70-4D2B-8283-74464D74C997-
+b851FF7CA-B1B2-4A6D-80A7-30E6D2F91396
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/Pods-SocketRocket-prefix-ekrdzdjjtgztzygfuzbegfbszxnu_ast/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/Pods-SocketRocket-prefix-grbusxggvabgzldadgmkilecoyxj_ast/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/CashMacbook/Library/Developer/Xcode/DerivedData/CollectionViewDemo-gecqmxxjnkymmsdgiqrfqylkyazo/Index/PrecompiledHeaders/Pods-SocketRocket-prefix-gttiimarmaclaxgdwlpfbwhmssee_ast/Pods-SocketRocket-prefix.pch.pch Pods-SocketRocket-prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
